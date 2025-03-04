@@ -43,7 +43,7 @@ As of the completion of the project, it will probably be modified in case of mor
 
 
 ## Support - Contact
-The code for this paper is private. If interested, reach out to me:
+If you have questions or you need clarifications, reach out to me:
 - mariaboukoutsou12@gmail.com
 
 
