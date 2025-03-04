@@ -17,8 +17,6 @@ Electroencephalography from the ear region (ear-EEG) is a promising non-invasive
 thesisRepo/
 │-- data/                     # Contains the EEG dataset (Note: not included for privacy reasons)
 │-- notebooks/                # Jupyter notebooks for data preprocessing, signal visualization, and analysis
-│-- models/                   # Directory for saved deep learning models after training
-
 │-- calculateSWDForTheFinalTrials.m  # Calculates SWD features for final trial data
 │-- checkingTheSignals.m           # Signal integrity check and visualization for EEG data
 │-- choosingTrials.m               # Script for selecting specific trials from the dataset
